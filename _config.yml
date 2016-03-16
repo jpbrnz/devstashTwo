@@ -1,0 +1,62 @@
+# Site settings
+title: DevStash | Jekyll Theme
+description: "A Jekyll theme for fun."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: svg/min/logo.svg
+
+# Hero
+hero:
+    hero_img: hero.jpg
+    hero_title: DevStash Code Bits
+    hero_description: A Jekyll theme for fun.
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: 987 654 3211
+    emergency: 987 654 3211
+    email: contact@yoursite.com
+    address: The way 276, <br> San Jose CA
+
+# hours
+monday_friday: 9:00 – 18:00
+saturday: 10:00 – 17:00
+sunday: 10:00 – 15:00
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: 1740 Technology Drive, San Jose, California
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+twitter: http://twitter.com
+feed: yes
+
+# Footer
+copyright: © 2016 Josh Burns - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics:
+google_verification:
