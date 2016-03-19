@@ -5,13 +5,13 @@
     <description>A Jekyll theme for fun.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 19 Mar 2016 01:23:06 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Mar 2016 01:23:06 -0700</lastBuildDate>
+    <pubDate>Sat, 19 Mar 2016 01:28:18 -0700</pubDate>
+    <lastBuildDate>Sat, 19 Mar 2016 01:28:18 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Curabitur</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/fulls/03.jpg&quot; class=&quot;fit image&quot; /&gt; Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.&lt;/p&gt;
+        <description>&lt;p&gt;Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.&lt;/p&gt;
 
 &lt;p&gt;Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.&lt;/p&gt;
 
@@ -28,7 +28,7 @@
     
       <item>
         <title>Suspendisse pellentesque</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/fulls/01.jpg&quot; class=&quot;fit image&quot; /&gt; Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pellentesque viverra, diam vel ultrices lobortis, urna diam efficitur diam, non ultricies enim massa et neque. Mauris lacinia purus nibh, ac consequat mi molestie ac. Suspendisse at sapien magna posuere imperdiet eget id nisi.&lt;/p&gt;
+        <description>&lt;p&gt;Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pellentesque viverra, diam vel ultrices lobortis, urna diam efficitur diam, non ultricies enim massa et neque. Mauris lacinia purus nibh, ac consequat mi molestie ac. Suspendisse at sapien magna posuere imperdiet eget id nisi.&lt;/p&gt;
 
 &lt;p&gt;Nulla facilisi. Pellentesque id magna eu sapien consectetur pulvinar nec eget massa. Nunc ut volutpat felis. Vestibulum pharetra ligula vel mattis aliquam. Etiam tempor vitae nulla nec euismod. Vivamus eget justo libero. Curabitur dictum, turpis vel porttitor semper, elit turpis vehicula nibh, quis mollis metus tortor at magna.&lt;/p&gt;
 
@@ -47,8 +47,7 @@
     
       <item>
         <title>Lorem</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/fulls/02.jpg&quot; class=&quot;fit image&quot; /&gt;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus fringilla dui. Donec laoreet maximus elit. Mauris ullamcorper condimentum lobortis. Donec maximus, mi vitae iaculis placerat, ligula mi maximus lectus, ac varius mi nulla id neque. Quisque porta eros nisi, eu fringilla urna dictum vitae.&lt;/p&gt;
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus fringilla dui. Donec laoreet maximus elit. Mauris ullamcorper condimentum lobortis. Donec maximus, mi vitae iaculis placerat, ligula mi maximus lectus, ac varius mi nulla id neque. Quisque porta eros nisi, eu fringilla urna dictum vitae.&lt;/p&gt;
 
 &lt;p&gt;Vestibulum id metus eu nisl sodales consectetur. Phasellus et ultrices lacus.&lt;/p&gt;
 
