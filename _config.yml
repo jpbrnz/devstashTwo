@@ -1,7 +1,7 @@
 # Site settings
 title: DevStash | Jekyll Theme
 description: "A Jekyll theme for fun."
-baseurl: "http://qikbyte.com" # the subpath of your site, e.g. /blog
+baseurl: "http://qikbyte.com/devstash" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
