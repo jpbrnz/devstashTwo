@@ -34,6 +34,12 @@ $colorBase: $greyLight;
 $colorBg: $alabaster;
 $colorBorder: $alto;
 
+$brand-primary:         darken(#455A64, 6.5%) !default; // #337ab7
+$brand-success:         #43A047 !default;
+$brand-info:            #009688 !default;
+$brand-warning:         #EF6C00 !default;
+$brand-danger:          #B71C1C !default;
+
 /* Spacing
 -------------------------------*/
 $space: 20px;
