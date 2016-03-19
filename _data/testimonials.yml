@@ -1,11 +1,11 @@
-- name: Jeff Winger
-  description: I teach law at Greendale, so believe me, I don't know much about law.
-  title: Law Professor - Greendale
+- name: Josh Burns
+  description: I design and build websites and applications that meet the ever changing needs of your customers.
+  title: Sr Front End Web Developer - San Jose, CA
 
-- name: Jeff Winger
-  description: Let's do what people do. Let's get a house we can't afford and a dog that makes us angry.
-  title: Law Professor - Greendale
+- name: Misc User
+  description: Let's do what people do. Get a free website that is imposible to use - Not for me :-(
+  title: Law Professor - Ney York, NY
 
-- name: Jeff Winger
-  description: There already was a rating system in place, it was called 'Cool People Get More,' and it was working fine.
-  title: Law Professor - Greendale
+- name: The Slacker
+  description: What you had a hosting provider where the moddow was 'Cool People Get More,'. That is how it is done here.
+  title: Critic - Los Angeles, CA
