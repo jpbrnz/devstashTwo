@@ -1,0 +1,13 @@
+/* ARTICLES
+-------------------------------------------------*/
+
+	#main {
+		margin: $space 0 $space;
+	}
+
+  .main {
+      @extend %space;
+      .media {
+          margin-bottom: $space;
+      }
+  }
