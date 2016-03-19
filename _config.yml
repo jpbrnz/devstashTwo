@@ -2,7 +2,7 @@
 title: DevStash | Jekyll Theme
 description: "A Jekyll theme for fun."
 baseurl: "http://qikbyte.com/devstash" # the subpath of your site, e.g. /blog
-url: "http://qikbyte.com" # the name of your domain
+url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
