@@ -5,12 +5,12 @@
     <description>A Jekyll theme for fun.</description>
     <link>http://qikbyte.com/</link>
     <atom:link href="http://qikbyte.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 19 Mar 2016 13:46:00 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Mar 2016 13:46:00 -0700</lastBuildDate>
+    <pubDate>Sat, 19 Mar 2016 14:01:49 -0700</pubDate>
+    <lastBuildDate>Sat, 19 Mar 2016 14:01:49 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Curabitur</title>
+        <title>Curabitur orci turpis</title>
         <description>&lt;p&gt;Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.&lt;/p&gt;
 
 &lt;p&gt;Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.&lt;/p&gt;
@@ -19,10 +19,35 @@
 
 &lt;p&gt;Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 17 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://qikbyte.com/2015/02/17/curabitur.html</link>
-        <guid isPermaLink="true">http://qikbyte.com/2015/02/17/curabitur.html</guid>
+        <pubDate>Tue, 09 Feb 2016 06:37:44 -0800</pubDate>
+        <link>http://qikbyte.com/update/2016/02/09/curabitur.html</link>
+        <guid isPermaLink="true">http://qikbyte.com/update/2016/02/09/curabitur.html</guid>
         
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Vestibulum id</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus fringilla dui. Donec laoreet maximus elit. Mauris ullamcorper condimentum lobortis. Donec maximus, mi vitae iaculis placerat, ligula mi maximus lectus, ac varius mi nulla id neque. Quisque porta eros nisi, eu fringilla urna dictum vitae.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum id metus eu nisl sodales consectetur. Phasellus et ultrices lacus.&lt;/p&gt;
+
+&lt;p&gt;Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.&lt;/p&gt;
+
+&lt;p&gt;Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.&lt;/p&gt;
+
+&lt;p&gt;Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.&lt;/p&gt;
+
+&lt;p&gt;Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Feb 2016 06:37:44 -0800</pubDate>
+        <link>http://qikbyte.com/update/2016/02/06/Lorem.html</link>
+        <guid isPermaLink="true">http://qikbyte.com/update/2016/02/06/Lorem.html</guid>
+        
+        
+        <category>update</category>
         
       </item>
     
@@ -42,27 +67,6 @@
         
         
         <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Lorem</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus fringilla dui. Donec laoreet maximus elit. Mauris ullamcorper condimentum lobortis. Donec maximus, mi vitae iaculis placerat, ligula mi maximus lectus, ac varius mi nulla id neque. Quisque porta eros nisi, eu fringilla urna dictum vitae.&lt;/p&gt;
-
-&lt;p&gt;Vestibulum id metus eu nisl sodales consectetur. Phasellus et ultrices lacus.&lt;/p&gt;
-
-&lt;p&gt;Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.&lt;/p&gt;
-
-&lt;p&gt;Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.&lt;/p&gt;
-
-&lt;p&gt;Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.&lt;/p&gt;
-
-&lt;p&gt;Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://qikbyte.com/2015/01/30/Lorem.html</link>
-        <guid isPermaLink="true">http://qikbyte.com/2015/01/30/Lorem.html</guid>
-        
         
       </item>
     
