@@ -17,7 +17,7 @@ layout: article
             <div class="row">
             {% if page.previous %}
 
-                <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
+                <article class="col-sm-6 excerpt">
                     <header>
                         <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
                     </header>
@@ -34,7 +34,7 @@ layout: article
 
             {% if page.next %}
 
-                <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt f-right">
+                <article class="col-sm-6 excerpt f-right">
                     <header>
                         <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
                     </header>
