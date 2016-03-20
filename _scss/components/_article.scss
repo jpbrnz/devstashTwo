@@ -50,7 +50,7 @@
     top: 50%;
     left: 50%;
     margin: -5% 0 0 -5%;
-    animation: stars 5s ease, stars 5s ease, stars 5s ease, stars 5s ease infinite;
+    animation: stars 5s ease, stars 5s ease, stars 5s ease, stars 10s ease infinite;
     animation-delay: 1s, 20s, 40s, 60s;
     transform: translate(-50px, -20px);
     &:nth-child(2) {
