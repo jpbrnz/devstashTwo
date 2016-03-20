@@ -8585,9 +8585,6 @@ $.fn.gmap3 = function () {
                 }
             }
         });
-
     });
-    
-  });
 
 })(jQuery);
